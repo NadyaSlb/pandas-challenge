@@ -1,0 +1,27 @@
+﻿PyCity Schools Analysis
+
+The task of this work is to analyze the district-wide standardized test results. 
+The main goal is to help the school board and mayor make strategic decisions 
+regarding future school budgets and priorities.
+
+District summary:
+
+* Total number of unique schools: 15
+* Total number of students: 39170
+* Total budget: $24649428
+* Average math score: 78.99
+* Average reading score: 81.88
+* % passing math (the percentage of students who passed math): 74.98
+* % passing reading (the percentage of students who passed reading): 85.81
+* % overall passing (the percentage of students who passed math AND reading): 65.17
+
+The school summary gives detailed information about each school, including all 
+metrics as in the district summary. Also, such important features were identified:  
+highest and lowest performing schools, math and reading scores by grade, scores 
+by school spending, school size, and school type.
+
+Conclusions:
+1. The top five performing schools are all charter schools, and the bottom five 
+are district schools.  So the school type is a significant factor in student performance.
+2. Schools with a lower student budget have higher overall passing rates than schools 
+with a higher budget. So large spending does not guarantee better results.
